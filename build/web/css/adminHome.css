@@ -1,0 +1,42 @@
+body{
+   background-color: skyblue;
+}
+h1{
+   padding: 35px 35px 35px 35px;
+   font-family: cooper;
+   text-align: center;
+    background-color:#003366;
+    color: white;
+    font-size: 50px;
+    
+}
+
+#back{
+    
+    width: 100%;
+    height: 100%;
+     
+}
+#box1{
+    display: inline-block;
+    margin-left: 90px;
+    margin-right: 50px;
+    padding: 5px 5px 5px 5px;
+    align-content: space-around;
+    width: 400px;
+     margin-bottom: 80px;
+     
+}
+#heading{
+    text-align: center;
+    font-family: Algerian;
+    font-size: 60px;
+    margin-bottom: 0px;
+    color: #003366;
+  text-decoration: underline;
+}
+#img{
+    margin-left: 120px;
+   
+    
+}

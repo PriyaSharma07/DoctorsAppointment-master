@@ -1,0 +1,115 @@
+#register{
+
+padding: 20px;
+margin-top:5px;
+margin-left: 38px;
+text-align:center;
+border-radius: 10px 10px 10px 10px;
+font-family: Cooper;
+    font-size: 70px;
+    color:#003366;
+    
+}
+
+
+div.main{
+width: 450px;
+padding: 10px 50px 25px;
+border: 5px solid #003366;
+border-radius: 10px;
+box-shadow: 5px 5px 10px #333333;
+font-family: raleway;
+margin-left: 400px;
+background-color: white;
+
+}
+input[type=text],input[type=password],input[type=number],input[type=email]{
+width: 100%;
+height: 40px;
+padding: 5px;
+margin-bottom: 25px;
+margin-top: 5px;
+border: 2px solid #ccc;
+color: #4f4f4f;
+font-size: 16px;
+border-radius: 5px;
+}
+label{
+color: #003366;
+text-shadow: 0 1px 0 #fff;
+font-size: 20px;
+font-weight: bold;
+}
+
+input[type=submit]{
+font-size: 16px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 1px solid #e5a900;
+color: #4E4D4B;
+font-weight: bold;
+cursor: pointer;
+width: 100%;
+border-radius: 5px;
+padding: 10px 0;
+outline:none;
+}
+input[type=submit]:hover{
+background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+}
+
+
+select{font-size: 16px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 1px solid #e5a900;
+color: #4E4D4B;
+font-weight: bold;
+cursor: pointer;
+width: 100%;
+border-radius: 5px;
+padding: 10px 0;
+outline:none;}
+
+
+
+
+.navbar-header{
+    width:100%;
+    background-color: #003366;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#ll{
+    margin-top: 20px;
+}
+
+#follow{
+    margin-top: 15px;
+}
+
+#menu{
+    color:white;
+}
+#menu:hover
+{
+    background-color:white; 
+    color:#003366;
+}
+#dd{
+    color:#ffffff;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: Impact;
+}
+#error{
+    color:red;
+    font-family: align;
+    font-size:20px;
+}
+
+#back{
+    background-image: url("10.jpg");
+    background-attachment: fixed;
+    
+   
+}
+

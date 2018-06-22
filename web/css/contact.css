@@ -1,0 +1,135 @@
+.top-bar{
+    width:100%;
+    
+    
+}
+
+.navbar-header{
+    width:100%;
+    background-color: #003366;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#ll{
+    margin-top: 20px;
+}
+
+#follow{
+    margin-top: 15px;
+}
+
+#menu{
+    color:white;
+}
+#menu:hover
+{
+    background-color:white; 
+    color:#003366;
+}
+#dd{
+    color:#ffffff;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: Impact;
+}
+#main{
+
+padding: 10px 50px 25px;
+border: 5px solid #003333;
+border-radius: 10px;
+float:left;
+margin-left: 350px;
+}
+
+#back{
+    
+    width: 100%;
+    height: 100%;
+     
+}
+#box1{
+    display: inline-block;
+    margin-left: 90px;
+    margin-right: 50px;
+    padding: 5px 5px 5px 5px;
+    align-content: space-around;
+    width: 270px;
+     margin-bottom: 80px;
+     
+}
+#heading{
+    text-align: center;
+    font-family: Algerian;
+    font-size: 60px;
+    margin-bottom: 0px;
+    color: #003366;
+  text-decoration: underline;
+  
+}
+#details {
+  text-align: center;
+  font-size: 22px;
+  letter-spacing: 1pt;
+  line-height:12pt;
+  color:black;
+  font-family:align;
+ margin-top: 15px;
+ height: 10px;
+ }
+
+#img{
+    margin-left: 40px;
+    
+}
+
+label{
+    color: black;
+    font-family: align;
+    font-size: 19px;
+    text-align: left;
+}
+input[type=text],input[type=email],select{
+width: 100%;
+height: 40px;
+padding: 5px;
+margin-bottom: 25px;
+margin-top: 5px;
+border: 2px solid #ccc;
+color: #4f4f4f;
+font-size: 16px;
+border-radius: 5px;
+}
+textarea{
+    width: 100%;
+height: 100px;
+padding: 5px;
+margin-bottom: 25px;
+margin-top: 5px;
+border: 2px solid #ccc;
+color: #4f4f4f;
+font-size: 16px;
+border-radius: 5px;
+}
+
+input[type=submit]{
+font-size: 16px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 1px solid #e5a900;
+color: #4E4D4B;
+font-weight: bold;
+cursor: pointer;
+width: 100%;
+border-radius: 5px;
+padding: 10px 0;
+outline:none;
+}
+input[type=submit]:hover{
+background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+}
+
+#review
+{
+    text-align: left;
+    width: 500px;
+    background-color: gainsboro;
+  }

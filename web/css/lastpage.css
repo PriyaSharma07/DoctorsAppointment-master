@@ -1,0 +1,155 @@
+.top-bar{
+    width:100%;
+    
+    
+}
+
+.navbar-header{
+    width:100%;
+    background-color: #003366;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#ll{
+    margin-top: 20px;
+}
+
+#follow{
+    margin-top: 15px;
+}
+
+#menu{
+    color:white;
+}
+#menu:hover
+{
+    background-color:white; 
+    color:#003366;
+}
+#dd{
+    color:#ffffff;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: Impact;
+}
+
+
+#details{
+    background-color: #cccccc;
+    height: 200px;
+    width: 1140px;
+    margin-left: 112px;
+    margin-top: 30px;
+    border: 2px solid #003333;
+border-radius: 10px;
+padding: 10px 10px 10px 25px;
+}
+#data{
+    font-family: Impact;
+    color: #003366;
+   font-size: 20px; 
+}
+
+#main{
+    width: 1140px;
+    margin-left: 112px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#box{
+    display: inline-block;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    padding: 10px 10px 10px 10px;
+}
+#box1{
+    display: inline-block;
+    margin-left: 380px;
+    padding: 10px 10px 10px 10px;
+}
+
+
+#heading1{
+    font-family: Algerian;
+    font-size:40px;
+    text-align: center;
+     text-decoration: underline;
+}
+#heading1:hover
+{
+    cursor: pointer;
+}
+
+#img{
+    margin-left: 45px;
+}
+#img:hover{
+    cursor: crosshair;
+}
+
+#btn{
+margin-top: 30px;
+margin-left: 450px;
+size: 70px;
+color: black;
+
+}
+
+#header1{
+    color:white;
+    font-family: Britannic;
+    font-size: 30px;
+}
+
+.modal-header,.modal-footer{
+    background-color: #009999;
+}
+
+#data1{
+    color: #009999;
+    font-size: 20px;
+    font-family: cooper;
+}
+
+.close {
+    color: white;
+    float: right;
+    font-size: 35px;
+    font-weight: bold;
+ 
+
+
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+#msg{
+    color: Grey;
+}
+
+table{
+    border: 1px;
+    width: 80%;
+   
+   }
+
+
+td{
+    text-align: left;
+    margin-top: 15px;
+    border: 3px solid black;
+}
+th{
+    border: 3px solid black;
+    text-align: center;
+    padding:3px 3px 3px; 
+    background-color: #003366;
+    color:white;
+}
+

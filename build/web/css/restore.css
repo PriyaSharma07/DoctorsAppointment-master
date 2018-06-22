@@ -1,0 +1,109 @@
+.top-bar{
+    width:100%;
+    
+    
+}
+
+.navbar-header{
+    width:100%;
+    background-color: #003366;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+
+
+#details {
+  text-align: center;
+  font-size: 17px;
+  letter-spacing: 1pt;
+  line-height:12pt;
+  color:white;
+  font-family:Constantia;
+  
+  margin-top: 5px;
+}
+
+
+
+#box1{
+    height: 440px;
+    width: 350px;
+   display: inline-block;
+    box-shadow:5px 5px 10px grey;
+  margin-bottom: 5px;
+    margin-left: 95px;
+    margin-top: 10px;  
+    background-color: #003366;
+}
+
+#marquee{
+    color:#003366;
+    font-family:Baskerville Old Face;
+    font-size: 9px;
+    margin-top: 0px;
+    
+}
+
+
+
+#ll{
+    margin-top: 20px;
+}
+
+#follow{
+    margin-top: 15px;
+}
+
+#menu{
+    color:white;
+}
+#menu:hover
+{
+    background-color:white; 
+    color:#003366;
+}
+
+
+
+#dd{
+    color:#ffffff;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: Impact;
+}
+#heading{
+    
+    margin-top:10px;
+    font-family: Cooper;
+    font-size:40px;
+    color:white;
+    text-align: center;
+    
+  
+}
+
+
+#myCarousel{
+    
+   margin-left:77px;
+   margin-right:60px;
+   align-content: center;
+   background-color: white;
+   border: 3px gray;
+   
+}
+
+
+#about{
+    
+    margin-bottom: 10px;
+    margin-left: 67px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px grey;
+    margin-right: 65px;
+    background-color: #003366;
+        
+}
+
